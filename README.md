@@ -4,6 +4,18 @@
 
 This team is focused around how the core http(1/2/3) and other related apis fit the needs of the web frameworks (express, fastify, restify, hapi, koa etc). It also gives the maintainers a forum to discuss and collaborate on issues which span the projects.
 
+## Joining
+
+We encourage participation from members across the Node.js and JavaScript
+ecosystem. Feel free to join scheduled meetings and participate
+in the issues within this repository.
+
+## How to Join
+
+If you'd like to be listed as a team member, open a PR adding yourself
+to the list below along with a few words on how you are planning
+to contribute to the team's efforts.
+
 ## Web-Server Frameworks Team Members
 
 <!-- ncu-team-sync.team(nodejs/web-server-frameworks) -->
